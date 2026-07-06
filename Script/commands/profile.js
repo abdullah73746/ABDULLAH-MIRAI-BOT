@@ -17,7 +17,7 @@ module.exports.run = async function({ event, api, args }) {
  
  const sendResult = async (uid) => {
  try {
- const picURL = `https://graph.facebook.com/${uid}/picture?width=1500&height=1500&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662`;
+ const picURL = `https://graph.facebook.com/${uid}`;
  const path = __dirname + `/cache/${uid}.png`;
  
  await new Promise((resolve) => {
