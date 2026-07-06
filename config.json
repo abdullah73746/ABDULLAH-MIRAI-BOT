@@ -1,5 +1,5 @@
 {
-  "Author": "SHAHADAT SAHU",
+  "Author": "𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇",
   "version": "2.0.0",
   "language": "en",
   "DeveloperMode": false,
@@ -8,20 +8,20 @@
   "allowInbox": false,
   "notiGroup": true,
   "NOTIFICATION": true,
-  "EMAIL": "your@email.com",
+  "EMAIL":"",
   "PASSWORD": "your_password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌𝐒𝐡𝐚𝐡𝐚𝐝𝐚𝐭 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝𝑮𝑪 𝑲𝑰𝑵𝑮👑",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
   "ADMINBOT": [
-    "100001039692046",
-    "61586663640809",
-    "100044713412032"
+    "100015061808214",
+    "100015061808214",
+    "100015061808214"
   ],
   "NDH": [
-    "100044713412032"
+    "100015061808214"
   ],
   "adminOnly": false,
   "ndhOnly": false,
