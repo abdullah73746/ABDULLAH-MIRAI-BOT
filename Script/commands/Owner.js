@@ -5,7 +5,7 @@ module.exports.config = {
   name: "owner",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "SHAHADAT SAHU",
+  credits: "𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇",
   description: "Show Owner Info with styled box & random photo",
   commandCategory: "Information",
   usages: "owner",
@@ -19,32 +19,30 @@ module.exports.run = async function ({ api, event }) {
 ╔═════════════════════ ✿
 ║ ✨ 𝗢𝗪𝗡𝗘𝗥 𝗜𝗡𝗙𝗢 ✨
 ╠═════════════════════ ✿
-║ 👑 𝗡𝗮𝗺𝗲 : 𝗦𝗛𝗔𝗛𝗔𝗗𝗔𝗧 𝗦𝗔𝗛𝗨
-║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗦𝗔𝗛𝗨
-║ 🎂 𝗔𝗴𝗲 : 𝟭𝟴+
+║ 👑 𝗡𝗮𝗺𝗲 : 𝗔𝗕𝗗𝗨𝗟𝗟𝗔𝗛
+║ 🧸 𝗡𝗶𝗰𝗸 𝗡𝗮𝗺𝗲 : 𝗦𝗛𝗔𝗞𝗜𝗟
+║ 🎂 𝗔𝗴𝗲 : 𝟭𝟳+
 ║ 💘 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗶𝗻𝗴𝗹𝗲
 ║ 🎓 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻 : 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
-║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗛𝗦𝗖
-║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗞𝗵𝗮𝗴𝗿𝗮𝗰𝗵𝗮𝗿𝗶
+║ 📚 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 : 𝗦𝗦𝗖
+║ 🏡 𝗔𝗱𝗱𝗿𝗲𝘀𝘀 : 𝗕𝗼𝗴𝘂𝗿𝗮. 𝗞𝗼𝗹𝗼𝗻𝗶
 ╠═════════════════════ ✿
 ║ 🔗 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗟𝗜𝗡𝗞𝗦
 ╠═════════════════════ ✿
 ║ 📘 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 :
-║ fb.com/100001039692046
+║ fb.com/100015061808214
 ║ 💬 𝗠𝗲𝘀𝘀𝗲𝗻𝗴𝗲𝗿 :
-║ m.me/100001039692046
+║ m.me/100015061808214
 ║ 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 :
-║ wa.me/01882333052
-║ ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 :
-║ t.me/yoursahu
+║ wa.me/01823339492
 ╚═════════════════════ ✿
 `;
 
   const images = [
-    "https://i.imgur.com/8WBso8x.png",
-    "https://i.imgur.com/0VZu5eY.png",
-    "https://i.imgur.com/bkixgPK.jpeg",
-    "https://i.imgur.com/z6G6L4c.jpeg"
+    "https://photos.app.goo.gl/o55xK7jS9frApSUN7",
+    "",
+    "",
+    ""
   ];
 
   const randomImg = images[Math.floor(Math.random() * images.length)];
