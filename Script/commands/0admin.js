@@ -5,7 +5,7 @@ module.exports.config = {
   name: "0admin",
   version: "2.0.0", //don't change credit
   hasPermssion: 2,
-  credits: "SHAHADAT SAHU",
+  credits: "𝐀𝐁𝐃 𝐔𝐋𝐋 𝐀𝐇",
   description: "Admin Management System",
   commandCategory: "Admin",
   usages: "[list | add | remove | only | boxonly] [uid | @mention | reply]",
