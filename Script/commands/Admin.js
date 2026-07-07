@@ -49,7 +49,7 @@ module.exports.run = async function({ api, event }) {
  attachment: fs.createReadStream(__dirname + "/cache/owner.jpg")
  }, event.threadID, () => fs.unlinkSync(__dirname + "/cache/owner.jpg"));
 
- return request("https://photos.app.goo.gl/o55xK7jS9frApSUN7")
+ return request("[![IMG-20260706-090112.jpg](https://i.postimg.cc/fRLVmBW5/IMG-20260706-090112.jpg)](https://postimg.cc/QH2NrgTW)")
  .pipe(fs.createWriteStream(__dirname + '/cache/owner.jpg'))
  .on('close', () => callback());
 };
